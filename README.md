@@ -86,6 +86,3 @@ webcam oder zeitaufloesende Kamera
 neuer Flat Field Schirm
 Lichtschutz um Schreibtisch und 180deg gedreht
 
-# KING
-# KING
-# KING
